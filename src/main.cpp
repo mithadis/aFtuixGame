@@ -309,8 +309,8 @@ int main(int argc, const char **argv)
       R"(intro
 
     Usage:
+          intro
           intro turn_based
-          intro loop_based
           intro (-h | --help)
           intro --version
  Options:
